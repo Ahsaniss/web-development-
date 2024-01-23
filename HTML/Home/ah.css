@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMd4dnrpoRSIn7cP-lcV4Zm7Rj6qjlkdLRA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-brand{
+    color: rgb(109, 66, 9);
+    font-family: 'Grape Nuts', cursive;
+    
+}
+div{
+    color: rgb(29, 26, 134);
+    font-size: 9000px;
+    text-align: center;}
+  
